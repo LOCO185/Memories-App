@@ -1,0 +1,20 @@
+Body Parser =>
+bodyParser.json([options])
+Returns middleware that only parses json and only looks at requests where the Content-Type header matches the type option.
+This parser accepts any Unicode encoding of the body and supports automatic inflation of gzip and deflate encodings.
+A new body object containing the parsed data is populated on the request object after the middleware (i.e. req.body).
+
+###############
+Schema !
+
+###############
+React Redux @!
+dispatch 
+thunk
+###############
+File Base 64
+upload files
+###############
+@@@@@@
+Good Use To Learn New Things =>
+mem.dev/training
