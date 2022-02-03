@@ -15,6 +15,10 @@ thunk
 File Base 64
 upload files
 ###############
+props drilling
+
+###############
+
 @@@@@@
 Good Use To Learn New Things =>
 mem.dev/training
