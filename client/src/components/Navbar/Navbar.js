@@ -4,7 +4,7 @@ import { Link, useHistory, useLocation } from "react-router-dom";
 import { useDispatch } from "react-redux";
 import decode from "jwt-decode";
 
-import memories from "../../images/memories.png";
+import memories from "../../images/capture.jfif";
 import * as actionType from "../../constants/actionTypes";
 import useStyles from "./styles";
 
@@ -45,9 +45,9 @@ const Navbar = () => {
           variant="h2"
           align="center"
         >
-          Memories
+          MEMORIES
         </Typography>
-        <img className={classes.image} src={memories} alt="icon" height="60" />
+        <img className={classes.image} src={memories} alt="icon" height="45" />
       </div>
       <Toolbar className={classes.toolbar}>
         {user?.result ? (
