@@ -42,4 +42,23 @@ export default makeStyles((theme) => ({
     color: theme.palette.getContrastText(deepPurple[500]),
     backgroundColor: deepPurple[500],
   },
+  [theme.breakpoints.down("sm")]: {
+    heading: {
+      fontSize: "25px",
+      marginRight: "-10px"
+    },
+    image: {
+      display: "none"
+    },
+    profile: {
+      marginRight: "140px"
+    },
+    userName: {
+      display: "none"
+    },
+    logout: {
+      marginRight: "120px",
+      height: "35px"
+    }
+  },
 }));

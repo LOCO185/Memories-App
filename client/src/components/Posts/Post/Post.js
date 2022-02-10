@@ -6,8 +6,8 @@ import {
   CardMedia,
   Button,
   Typography,
-  ButtonBase,
 } from "@material-ui/core/";
+import ButtonBase from "@material-ui/core/ButtonBase";
 import ThumbUpAltIcon from "@material-ui/icons/ThumbUpAlt";
 import DeleteIcon from "@material-ui/icons/Delete";
 import MoreHorizIcon from "@material-ui/icons/MoreHoriz";

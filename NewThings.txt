@@ -35,6 +35,5 @@ mem.dev/training
 
 @@@@
 TODO:
-Fully Responsive.
 Time Issue.(fetching)
 Deployement
