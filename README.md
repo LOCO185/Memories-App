@@ -29,7 +29,7 @@ it was a very challenging for us but we made it through !
 # Project Pages
 ## This is how SignIn Page looks like :
 ![Sign-in](https://user-images.githubusercontent.com/92999316/158173612-714deab8-1e81-4391-8e96-44df40176162.png)
-## This is how SignIn Page looks like :
+## This is how SignUp Page looks like :
 ![sign up](https://user-images.githubusercontent.com/92999316/158173880-281c9834-655d-460b-9128-c8c39e6d51b0.png)
 ## This is how Home Page looks like before logging in :
 ![before](https://user-images.githubusercontent.com/92999316/158174028-30000c9b-e2fa-4bf7-9a30-91bde4b59f10.png)
