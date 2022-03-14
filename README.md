@@ -26,6 +26,16 @@ it was a very challenging for us but we made it through !
 #### after signing in, create your own post by uploading an image give it a title , message, tags and pressing submit button.
 #### You can't make changes on memories, update it or delete it unless you are the owner.
 
+# Project Pages
+## This is how SignIn Page looks like :
+![Sign-in](https://user-images.githubusercontent.com/92999316/158173612-714deab8-1e81-4391-8e96-44df40176162.png)
+## This is how SignIn Page looks like :
+![sign up](https://user-images.githubusercontent.com/92999316/158173880-281c9834-655d-460b-9128-c8c39e6d51b0.png)
+## This is how Home Page looks like before logging in :
+![before](https://user-images.githubusercontent.com/92999316/158174028-30000c9b-e2fa-4bf7-9a30-91bde4b59f10.png)
+## This is how Home Page looks like after logging in :
+![after](https://user-images.githubusercontent.com/92999316/158174056-ea11ba2e-d1aa-40e6-9e03-d4a4cd1c2e19.png)
+
 ## Future plans of the project :
 ### Realtime chat on post page.
 
