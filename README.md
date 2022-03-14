@@ -21,10 +21,14 @@ this way anyone can see each others posts ,can view like and comment on it.
 it was a very challenging for us but we made it through !
 
 ## How To Use The App :
-#### When you visit the app you can view every single post. but you can't like, comment or create unless you signed in.
+#### When you visit the app you can view a memorie by clicking on the image. but you can't like, comment or create unless you signed in.
 #### Sign in using google account or Sign up using email registeration.
 #### after signing in, create your own post by uploading an image give it a title , message, tags and pressing submit button.
 #### You can't make changes on memories, update it or delete it unless you are the owner.
 
 ## Future plans of the project :
 ### Realtime chat on post page.
+
+## Project link
+
+[Memories-By-Jawad](https://memories-by-jawad.netlify.app/)
